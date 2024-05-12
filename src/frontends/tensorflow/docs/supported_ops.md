@@ -633,7 +633,7 @@ A "supported operation" is one that TensorFlow Frontend can convert to the OpenV
 | MatrixLogarithm                                         | NO                            |                               |
 | MatrixSetDiag                                           | NO                            |                               |
 | MatrixSetDiagV2                                         | NO                            |                               |
-| MatrixSetDiagV3                                         | NO                            |                               |
+| MatrixSetDiagV3                                         | YES                           |                               |
 | MatrixSolve                                             | NO                            |                               |
 | MatrixSolveLs                                           | NO                            |                               |
 | MatrixSquareRoot                                        | NO                            |                               |
